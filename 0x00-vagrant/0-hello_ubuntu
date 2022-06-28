@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 uname prints only the kernel name in linux
+=======
+uname just prints the linux kernel name
+>>>>>>> 88d0234f462d9885df98fdca136582a891ae6b25
