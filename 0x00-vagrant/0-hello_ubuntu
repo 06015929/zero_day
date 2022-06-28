@@ -1,3 +1,1 @@
-
-uname just prints the linux kernel name
-uname just prints the linux kernel name
+uname only prints "linux" kernel name
